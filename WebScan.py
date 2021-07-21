@@ -1,6 +1,6 @@
 #!/usr/bin/python
 ################################
-# Coded By Mr.XSecr3t          #
+# Coded By Mr.X-one          #
 # AnonSec Hackers Universe 	   #
 # Release Date : 15-11-2018	   #
 ################################
@@ -15,8 +15,8 @@ print('|       / _ | ___  ___  ___  / __/__ ____          |')
 print('|      / __ |/ _ \/ _ \/ _ \_\ \/ -_) __/          |')
 print('|     /_/ |_/_//_/\___/_//_/___/\__/\__/           |')
 print('|    AnonSec Hackers:::Universe In Here            |')
-print('|   https://www.facebook.com/anonxsecr3t           |')
-print('|         anonxsecr3t@tutamail.com                 |')
+print('|   https://www.facebook.com/anonxone6           |')
+print('|         anonxone6@tutamail.com                 |')
 print('|        ICDT@Offsec.id | anonsec.us               |')
 print('|              wwww.icdtSec.net                    |')
 print('----------------------------------------------------')
@@ -52,7 +52,7 @@ try:
     print "\n\t------------------------------------------"
     print "Job Done!"
     time.sleep(0.100) # Wait for 3 second
-    print "Greetz To Mr.XSecr3t And All AnonSec Member"
+    print "Greetz To Mr.X-one And All AnonSec Member"
 except (httplib.HTTPResponse, socket.error):
     print "\n\t[!] Session Cancelled; Error occured. Check internet settings"
 except (KeyboardInterrupt, SystemExit):
